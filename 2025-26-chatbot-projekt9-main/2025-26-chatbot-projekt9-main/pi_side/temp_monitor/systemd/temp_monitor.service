@@ -1,0 +1,14 @@
+[Unit]
+Description=Raspberry Pi Temperature Monitor
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/dtuser/Downloads/chatbot/Chatbot_Projet/temp_monitor/main.py
+WorkingDirectory=/home/dtuser/Downloads/chatbot/Chatbot_Projet/temp_monitor
+Restart=always
+User=dtuser
+StandardOutput=inherit
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target

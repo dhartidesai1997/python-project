@@ -1,0 +1,191 @@
+{
+  "weather": {
+    "variants": [
+      "what is the weather",
+      "how is the weather today",
+      "tell me the weather",
+      "what's the forecast",
+      "how does the weather look"
+    ],
+    "answers": [
+      "It's sunny today.",
+      "Looks like it might rain later.",
+      "Cloudy skies are expected.",
+      "The forecast says sunny intervals."
+    ]
+  },
+  "travel": {
+    "variants": [
+      "where should I travel",
+      "what is the best vacation place",
+      "tell me a travel destination",
+      "what is your favorite place",
+      "suggest a holiday destination"
+    ],
+    "answers": [
+      "I would love to visit Japan.",
+      "Paris is beautiful and full of history.",
+      "Beaches are relaxing and fun to visit.",
+      "Consider Italy for food and culture."
+    ]
+  },
+  "time": {
+    "variants": [
+      "what time is it",
+      "current time",
+      "can you tell me the time",
+      "what's the time now",
+      "tell me the current time"
+    ],
+    "answers": [
+      "It's {time}.",
+      "The current time is {time}.",
+      "Right now, it is {time}.",
+      "According to my clock, it's {time}."
+    ]
+  },
+  "date": {
+    "variants": [
+      "what is the date today",
+      "today's date",
+      "can you tell me the date",
+      "what date is it today",
+      "show me today's date"
+    ],
+    "answers": [
+      "Today is {date}.",
+      "It's {date} today.",
+      "The date today is {date}.",
+      "According to my calendar, today is {date}."
+    ]
+  },
+  "name": {
+    "variants": [
+      "what is your name",
+      "who are you",
+      "how do you call yourself",
+      "introduce yourself",
+      "your name"
+    ],
+    "answers": [
+      "I am ChatBot. I can help you with your query"
+    ]
+  },
+  "location": {
+    "variants": [
+      "where are you",
+      "what is the location",
+      "where is this",
+      "can you tell me the location",
+      "how do I reach there"
+    ],
+    "answers": [
+      "I exist in the cloud.",
+      "I am everywhere and nowhere at the same time.",
+      "I live in the digital world.",
+      "Think of me as being online."
+    ]
+  },
+  "python": {
+    "variants": [
+      "what is python",
+      "how to learn python",
+      "best python book",
+      "python programming",
+      "python tutorial"
+    ],
+    "answers": [
+      "Python is a programming language widely used in data science and web development.",
+      "'Automate the Boring Stuff' is great for beginners.",
+      "'Python Crash Course' is highly recommended.",
+      "'Learn Python the Hard Way' is also useful."
+    ]
+  },
+  "food": {
+    "variants": [
+      "what is your favorite food",
+      "what food do you like",
+      "tell me about food",
+      "favorite cuisine",
+      "recommend a dish"
+    ],
+    "answers": [
+      "I love virtual cookies!",
+      "Pizza sounds delicious.",
+      "Sushi is very tasty.",
+      "I enjoy all kinds of food virtually."
+    ]
+  },
+  "joke": {
+    "variants": [
+      "tell me a joke",
+      "can you make me laugh",
+      "say a joke",
+      "I want to hear a joke",
+      "make me laugh"
+    ],
+    "answers": [
+      "Why did the computer go to the doctor? It caught a virus!",
+      "Why was the math book sad? Too many problems.",
+      "Why did the programmer quit his job? He didn't get arrays.",
+      "I would tell you a UDP joke, but you might not get it."
+    ]
+  },
+  "machine learning": {
+    "variants": [
+      "what is machine learning?",
+      "what does machine learning mean?",
+      "how does machine learning work?",
+      "explain machine learning.",
+      "give me a definition of machine learning."
+    ],
+    "answers": [
+      "Machine Learning is a type of AI where systems learn from data.",
+      "Machine Learning helps computers learn patterns automatically.",
+      "It is a method that allows computers to improve through experience.",
+      "ML enables systems to make predictions or decisions without being explicitly programmed."
+    ]
+  },
+  "music": {
+    "variants": [
+      "what kind of music do you like",
+      "what is your favorite music",
+      "tell me about music",
+      "do you like music",
+      "music preference"
+    ],
+    "answers": [
+      "I enjoy all kinds of music.",
+      "Pop and jazz are my favorites.",
+      "Music helps me relax, even as a chatbot.",
+      "I like classical music too!"
+    ]
+  },
+  "pentesting": {
+    "variants": [
+      "what is pentesting",
+      "what is the meaning of pentesting"
+    ],
+    "answers": [
+      "Pentesting is a technique to find weakness of software",
+      "Pentesting is a technique to find weakness and report it to developers"
+    ]
+  },
+  "vulnerability assessment": {
+    "variants": [
+      "What is Vulnerability Assessment"
+    ],
+    "answers": [
+      "Vulnerability assessment is the process of identifying security weaknesses",
+      "Vulnerability assessment is a technique to report a weakness of software"
+    ]
+  },
+  "lecture hall": {
+    "variants": [
+      "where is the main lecture hall"
+    ],
+    "answers": [
+      "The main lecture hall is in Building A, Campus Center"
+    ]
+  }
+}

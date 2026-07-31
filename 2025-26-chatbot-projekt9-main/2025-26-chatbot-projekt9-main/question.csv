@@ -1,0 +1,28 @@
+keyword,variant,answer
+life,What is the meaning of life?,The meaning of life is subjective.|It depends on personal beliefs.|Some say it's to seek happiness.|Life's purpose varies for each individual.
+life,The purpose of life,Life's purpose is to learn and grow.|It can be to find fulfillment.|Purpose is personal.|To contribute positively to society.
+life,Why do we exist?,Existence has philosophical explanations.|Science and religion offer different views.|We exist to experience life.|Existence is a chance to learn and evolve.
+life,What is life all about?,Life is about growth and experiences.|It is about relationships and learning.|Life has many perspectives.|It is about making choices and impact.
+life,What is the meaning of existence?,Existence can have multiple meanings.|Philosophers debate it.|It is about awareness and consciousness.|Meaning is what you create for yourself.
+quantum,What is quantum computing?,Quantum computing is a new field of computing.|It uses quantum bits.|Quantum computers leverage quantum mechanics.|It's a revolutionary computing technology.
+quantum,Quantum computing is a new field of computing,Quantum computing enables superposition and entanglement.|It processes information differently.|It offers potential breakthroughs in cryptography.|Quantum computers solve complex problems faster.
+blockchain,What is blockchain?,Blockchain is a decentralized ledger.|It is the technology behind cryptocurrencies.|Blockchain ensures data integrity.|It is a distributed database technology.
+blockchain,It is the technology behind cryptocurrencies,Blockchain enables secure transactions.|It is transparent and immutable.|It provides trust without intermediaries.|It is the backbone of crypto assets.
+iot,What is the internet of things?,Internet of Things connects devices.|IoT allows everyday objects to communicate.|It enables smart homes.|IoT is about interconnected devices.
+iot,IoT allows everyday objects to communicate,IoT helps automate tasks.|Devices can share data.|It improves efficiency.|IoT supports smart cities and homes.
+cloud,How does the cloud work?,The cloud is a network of remote servers.|Cloud computing allows data storage over the internet.|It offers scalable resources.|It helps store and access data online.
+cloud,Cloud computing allows data storage over the internet,The cloud provides flexible computing power.|It reduces local infrastructure needs.|It offers security and backup.|It enables collaboration across locations.
+neural,What is a neural network?,A neural network is a machine learning model.|It mimics the human brain.|It is made up of layers of neurons.|Neural networks are used in AI.
+neural,It mimics the human brain,Neural networks process inputs and outputs.|They learn from data patterns.|Used in image," speech"," and text recognition.|They are essential for deep learning."
+ar,What is augmented reality?,Augmented reality overlays digital content on the real world.|It enhances the user's view with computer-generated graphics.|AR is used in apps like Snapchat.|AR adds digital elements to physical environments.
+vr,What is virtual reality?,Virtual reality creates a fully immersive digital environment.|VR uses headsets to transport users into digital worlds.|It simulates a virtual environment.|VR is often used in gaming.
+cybersecurity,What is cybersecurity?,Cybersecurity protects computer systems from attacks.|It involves securing networks and data.|Cybersecurity ensures privacy.|It is critical for protecting sensitive information online.
+deep_learning,What is deep learning?,Deep learning is a subset of machine learning.|It uses neural networks with many layers.|Deep learning is used in image and speech recognition.|It is a powerful tool for AI systems.
+
+
+
+
+
+
+"python Chatbot-s3.py --add --keyword ""greeting"" --question ""hello"" --answer ""Hi there! How can I help you today?"""
+"python Chatbot-s3.py --remove --keyword ""greeting"" --question ""hello"" --answer ""Hi there! How can I help you today?"""
